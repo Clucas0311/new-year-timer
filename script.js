@@ -1,4 +1,4 @@
 const days = document.querySelector('#days');
-const days = document.querySelector('#hours');
-const days = document.querySelector('#minutes');
-const days = document.querySelector('#seconds');
+const hours = document.querySelector('#hours');
+const minutes = document.querySelector('#minutes');
+const seconds = document.querySelector('#seconds');
